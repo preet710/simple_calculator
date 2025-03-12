@@ -16,7 +16,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/python-calculator.git
+git clone https://github.com/preet710/simple_calculator/tree/main
 cd python-calculator
 Run the Calculator:
 
